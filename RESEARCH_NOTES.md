@@ -1,6 +1,7 @@
 # 🔬 Research & Engineering Notes: kubeai
 
-- **Date**: 2026-09-14 21:05:00
+- **Date**: 2026-09-15 23:49:35
+- **Branch**: `research/notes`
 - **Upstream Repository**: [kubeai-project/kubeai](https://github.com/kubeai-project/kubeai)
 - **Stargazers**: ★ 1260
 - **Summary**: AI Inference Operator for Kubernetes with prefix-aware load balancing
@@ -14,4 +15,4 @@
 尤其對 KV-cache 的利用率優化與多加速器排程很有參考價值，架構非常輕量且無須綁定複雜的 service mesh。
 
 ## 🚀 Action Items & Next Steps
-先 fork 過來建置 local dev branch 測試並優化看看，確保能跟現有論文的 HPA autoscaling pipeline 整合。
+持續在 research/notes 分支推進，建立 local dev branch 測試並優化，確保能跟現有論文的 HPA autoscaling pipeline 整合。
